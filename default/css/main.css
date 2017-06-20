@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.border-blue{
+    border: solid 1px blue;
+}
+.border-red{
+    border: solid 1px red;
+}
+.border-green{
+    border: solid 1px green;
+}
+/*
+    class: 1st-2st
+    id : dendueAnfenf
+*/
+/******************************
+ *  Header
+ ******************************/
+/******************************
+ *  Se connecter
+ ******************************/
+#imageLogin
+{
+    width: 90px;
+    height: 90px;
+    display: block;
+    margin: 0 auto;
+}
+.login{
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+.input-login{
+    width: 100%;
+}
+#connexionTitre{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.submit-login
+{
+    font-size: 20px;
+    border-radius: 5px;
+    border: solid 1px #ffca59;
+    color: #ffffff;
+    background-color: #ffca59;
+}
+.submit-login:hover
+{
+    color: #ffca59;
+    border: solid 1px #ffca59;
+    background-color: #ffffff;
+}
